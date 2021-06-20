@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar Vaiibhav Shirodkar  sample web service
+Welcome to the AWS CodeStar Vaiibhav Shirodkar  sample web services
 ==============================================
 
 This sample code helps get you started with a simple Python web service using
